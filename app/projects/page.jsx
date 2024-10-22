@@ -9,7 +9,7 @@ export default function Projects() {
                 <h2 className="text-2xl font-semibold">Our Projects</h2>
 
                 <p className="text-center text-xs text-slate-400">
-                    A project is a simple or team activity combining research and design with beat effort. Here are some of our team's projects
+                    A project is a simple or team activity combining research and design with beat effort. Here are some of our team&apos;s projects
                 </p>
             </div>
 

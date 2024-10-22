@@ -42,7 +42,7 @@ export default function Testimonial() {
 
             <h3 className="text-purple-600 text-base">Outstanding!!</h3>
             <p className="text-xs text-slate-500">
-              I just wanted to drop you a little email to say thank you for all your hard work. I'm delighted I chose you as my partner. Your websites are quite simple to edit and maintain, which is fantastic.
+              I just wanted to drop you a little email to say thank you for all your hard work. I&apos;m delighted I chose you as my partner. Your websites are quite simple to edit and maintain, which is fantastic.
             </p>
 
             <h4 className="text-xs font-semibold">Daniel Lane, <span className="text-slate-500 font-thin text-[10px]">Developer</span></h4>
